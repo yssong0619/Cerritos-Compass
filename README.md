@@ -23,7 +23,6 @@ We provide locations to:
 * Urgent Cares
 * Free Covid Testing Sites
 
-
-![image] (<img width="846" alt="image" src="https://user-images.githubusercontent.com/114503024/193958686-05204bbd-8832-47fa-b310-8e6e9b0907a5.png">)
-
 Check out our full website [here!](https://alicesong0615.wixsite.com/cerritoscompass)
+
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/114503024/193959032-c2e6184b-b385-4d87-9a4c-b8748ecbb3db.png">
