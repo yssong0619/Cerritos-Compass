@@ -12,4 +12,18 @@ Provide easy access and resources to teens in Cerritos to commute using public t
 
 Cerritos Compass emerged from a want to assist others in finding their way around the city of Cerritos. Entirely student-run, Cerritos Compass will make locating places of importance in the city more simple. As we expand more and more, we will continue to lengthen the list of places that are added to the website. This website might be modest and simple, but we hope to be even the slightest bit of help to you! :)
 
+## What We Do
+
+We provide locations to:
+
+* Hospitals
+* Schools
+* Dental Offices
+* Pharmacies
+* Urgent Cares
+* Free Covid Testing Sites
+
+
+![image] (<img width="846" alt="image" src="https://user-images.githubusercontent.com/114503024/193958686-05204bbd-8832-47fa-b310-8e6e9b0907a5.png">)
+
 Check out our full website [here!](https://alicesong0615.wixsite.com/cerritoscompass)
